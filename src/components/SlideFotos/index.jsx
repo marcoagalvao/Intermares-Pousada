@@ -1,12 +1,12 @@
 import React from 'react'
-import area_mesas_two from '../../assets/area_mesas_two.jpg'
-import area_mesas from '../../assets/area_mesas.jpg'
-import banheiro_box from '../../assets/banheiro_box.jpg'
-import banheiro_pia from '../../assets/banheiro_pia.jpg'
-import estacionamento from '../../assets/estacionamento.jpg'
-import frigobar from '../../assets/frigobar.jpg'
-import quarto_geral from '../../assets/quarto_geral.jpg'
-import tres_camas from '../../assets/tres_camas.jpg'
+import area_mesas_two from '@/assets/area_mesas_two.jpg'
+import area_mesas from '@/assets/area_mesas.jpg'
+import banheiro_box from '@/assets/banheiro_box.jpg'
+import banheiro_pia from '@/assets/banheiro_pia.jpg'
+import estacionamento from '@/assets/estacionamento.jpg'
+import frigobar from '@/assets/frigobar.jpg'
+import quarto_geral from '@/assets/quarto_geral.jpg'
+import tres_camas from '@/assets/tres_camas.jpg'
 
 
 export default function SlideFotos() {
