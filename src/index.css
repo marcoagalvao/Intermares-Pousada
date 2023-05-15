@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --vermelho-escuro: #600000;
+  --verde-oliva: #006060;
+  --fonte-banner: 'Cookie', sans-serif;
+  --fonte-texto:  'Roboto', sans-serif;
+}
+
+*, ::after, ::before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--fonte-texto);
+  background-color: #e2e2e2;
+}
